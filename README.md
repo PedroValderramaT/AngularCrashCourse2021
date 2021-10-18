@@ -1,5 +1,11 @@
-# AngularCrash
+# Angular Crash Course 2021
+This code was made using the Crash course from https://www.youtube.com/watch?v=3dHNOWTI7H8&ab_channel=TraversyMedia as an exercise to improve the understandment of the Angular framework, for future reference please refer to the source video
 
+
+## Differences from tutorial
+- The use of "!" in the variable declaraiton inside the classes, this is because Angular 12 was used
+
+# AngularCrash
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
